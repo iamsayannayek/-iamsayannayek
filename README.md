@@ -1,5 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQGhtvRk4k1yqQ/profile-displaybackgroundimage-shrink_350_1400/0/1689052789586?e=1700697600&v=beta&t=ITFxSJLcZgrcgjmmTGx-_-Ne7dEsuT48OWRefF_RJX0)
-
 <h1 align="center">Hi 👋, I'm Sayan Nayek</h1>
 <h3 align="center">ECE Student | Seeking Full-Time Software Engineer Job | C, Java, JavaScript, HTML, CSS | 2024 Graduation</h3>
 
